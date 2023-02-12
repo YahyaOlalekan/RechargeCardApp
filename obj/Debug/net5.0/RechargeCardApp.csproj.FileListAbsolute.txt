@@ -1,0 +1,16 @@
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.exe
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.deps.json
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.runtimeconfig.json
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.runtimeconfig.dev.json
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.dll
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\ref\RechargeCardApp.dll
+C:\Users\USER PC\Desktop\RechargeCardApp\bin\Debug\net5.0\RechargeCardApp.pdb
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.AssemblyInfoInputs.cache
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.AssemblyInfo.cs
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.dll
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\ref\RechargeCardApp.dll
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.pdb
+C:\Users\USER PC\Desktop\RechargeCardApp\obj\Debug\net5.0\RechargeCardApp.genruntimeconfig.cache
